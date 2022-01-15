@@ -1,3 +1,1 @@
 # Into the darkness
-
-# Hello
